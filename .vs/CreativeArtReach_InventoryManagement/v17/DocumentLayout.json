@@ -1,0 +1,162 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\writi\\source\\repos\\CreativeArtReach_InventoryManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65494BE7-A954-4D8E-B429-00D1C1CA0916}|CreativeArtReach_InventoryManagement.csproj|c:\\users\\writi\\source\\repos\\creativeartreach_inventorymanagement\\managepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{65494BE7-A954-4D8E-B429-00D1C1CA0916}|CreativeArtReach_InventoryManagement.csproj|solutionrelative:managepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65494BE7-A954-4D8E-B429-00D1C1CA0916}|CreativeArtReach_InventoryManagement.csproj|C:\\Users\\writi\\source\\repos\\CreativeArtReach_InventoryManagement\\managepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65494BE7-A954-4D8E-B429-00D1C1CA0916}|CreativeArtReach_InventoryManagement.csproj|solutionrelative:managepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65494BE7-A954-4D8E-B429-00D1C1CA0916}|CreativeArtReach_InventoryManagement.csproj|C:\\Users\\writi\\source\\repos\\CreativeArtReach_InventoryManagement\\findpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{65494BE7-A954-4D8E-B429-00D1C1CA0916}|CreativeArtReach_InventoryManagement.csproj|solutionrelative:findpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65494BE7-A954-4D8E-B429-00D1C1CA0916}|CreativeArtReach_InventoryManagement.csproj|C:\\Users\\writi\\source\\repos\\CreativeArtReach_InventoryManagement\\viewpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{65494BE7-A954-4D8E-B429-00D1C1CA0916}|CreativeArtReach_InventoryManagement.csproj|solutionrelative:viewpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65494BE7-A954-4D8E-B429-00D1C1CA0916}|CreativeArtReach_InventoryManagement.csproj|C:\\Users\\writi\\source\\repos\\CreativeArtReach_InventoryManagement\\viewpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65494BE7-A954-4D8E-B429-00D1C1CA0916}|CreativeArtReach_InventoryManagement.csproj|solutionrelative:viewpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65494BE7-A954-4D8E-B429-00D1C1CA0916}|CreativeArtReach_InventoryManagement.csproj|C:\\Users\\writi\\source\\repos\\CreativeArtReach_InventoryManagement\\findpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65494BE7-A954-4D8E-B429-00D1C1CA0916}|CreativeArtReach_InventoryManagement.csproj|solutionrelative:findpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65494BE7-A954-4D8E-B429-00D1C1CA0916}|CreativeArtReach_InventoryManagement.csproj|C:\\Users\\writi\\source\\repos\\CreativeArtReach_InventoryManagement\\supply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65494BE7-A954-4D8E-B429-00D1C1CA0916}|CreativeArtReach_InventoryManagement.csproj|solutionrelative:supply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65494BE7-A954-4D8E-B429-00D1C1CA0916}|CreativeArtReach_InventoryManagement.csproj|C:\\Users\\writi\\source\\repos\\CreativeArtReach_InventoryManagement\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{65494BE7-A954-4D8E-B429-00D1C1CA0916}|CreativeArtReach_InventoryManagement.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65494BE7-A954-4D8E-B429-00D1C1CA0916}|CreativeArtReach_InventoryManagement.csproj|C:\\Users\\writi\\source\\repos\\CreativeArtReach_InventoryManagement\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65494BE7-A954-4D8E-B429-00D1C1CA0916}|CreativeArtReach_InventoryManagement.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FindPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\writi\\source\\repos\\CreativeArtReach_InventoryManagement\\FindPage.cs",
+              "RelativeDocumentMoniker": "FindPage.cs",
+              "ToolTip": "C:\\Users\\writi\\source\\repos\\CreativeArtReach_InventoryManagement\\FindPage.cs [Design]",
+              "RelativeToolTip": "FindPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T23:35:09.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ManagePage.cs",
+              "DocumentMoniker": "C:\\Users\\writi\\source\\repos\\CreativeArtReach_InventoryManagement\\ManagePage.cs",
+              "RelativeDocumentMoniker": "ManagePage.cs",
+              "ToolTip": "C:\\Users\\writi\\source\\repos\\CreativeArtReach_InventoryManagement\\ManagePage.cs",
+              "RelativeToolTip": "ManagePage.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAIAwwFYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T10:03:21.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ViewPage.cs",
+              "DocumentMoniker": "C:\\Users\\writi\\source\\repos\\CreativeArtReach_InventoryManagement\\ViewPage.cs",
+              "RelativeDocumentMoniker": "ViewPage.cs",
+              "ToolTip": "C:\\Users\\writi\\source\\repos\\CreativeArtReach_InventoryManagement\\ViewPage.cs",
+              "RelativeToolTip": "ViewPage.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAMwDMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T10:03:53.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ViewPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\writi\\source\\repos\\CreativeArtReach_InventoryManagement\\ViewPage.cs",
+              "RelativeDocumentMoniker": "ViewPage.cs",
+              "ToolTip": "C:\\Users\\writi\\source\\repos\\CreativeArtReach_InventoryManagement\\ViewPage.cs [Design]",
+              "RelativeToolTip": "ViewPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T23:35:36.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ManagePage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\writi\\source\\repos\\CreativeArtReach_InventoryManagement\\ManagePage.cs",
+              "RelativeDocumentMoniker": "ManagePage.cs",
+              "ToolTip": "C:\\Users\\writi\\source\\repos\\CreativeArtReach_InventoryManagement\\ManagePage.cs [Design]",
+              "RelativeToolTip": "ManagePage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T23:26:26.194Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FindPage.cs",
+              "DocumentMoniker": "C:\\Users\\writi\\source\\repos\\CreativeArtReach_InventoryManagement\\FindPage.cs",
+              "RelativeDocumentMoniker": "FindPage.cs",
+              "ToolTip": "C:\\Users\\writi\\source\\repos\\CreativeArtReach_InventoryManagement\\FindPage.cs",
+              "RelativeToolTip": "FindPage.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAQwGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T10:03:42.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Supply.cs",
+              "DocumentMoniker": "C:\\Users\\writi\\source\\repos\\CreativeArtReach_InventoryManagement\\Supply.cs",
+              "RelativeDocumentMoniker": "Supply.cs",
+              "ToolTip": "C:\\Users\\writi\\source\\repos\\CreativeArtReach_InventoryManagement\\Supply.cs",
+              "RelativeToolTip": "Supply.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T10:15:59.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\writi\\source\\repos\\CreativeArtReach_InventoryManagement\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\writi\\source\\repos\\CreativeArtReach_InventoryManagement\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T08:56:56.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\writi\\source\\repos\\CreativeArtReach_InventoryManagement\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\writi\\source\\repos\\CreativeArtReach_InventoryManagement\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T22:36:09.435Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

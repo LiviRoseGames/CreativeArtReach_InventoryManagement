@@ -1,0 +1,14 @@
+C:\Users\writi\source\repos\CreativeArtReach_InventoryManagement\bin\Debug\CreativeArtReach_InventoryManagement.exe.config
+C:\Users\writi\source\repos\CreativeArtReach_InventoryManagement\bin\Debug\CreativeArtReach_InventoryManagement.exe
+C:\Users\writi\source\repos\CreativeArtReach_InventoryManagement\bin\Debug\CreativeArtReach_InventoryManagement.pdb
+C:\Users\writi\source\repos\CreativeArtReach_InventoryManagement\obj\Debug\CreativeArtReach_InventoryManagement.csproj.AssemblyReference.cache
+C:\Users\writi\source\repos\CreativeArtReach_InventoryManagement\obj\Debug\CreativeArtReach_InventoryManagement.FindPage.resources
+C:\Users\writi\source\repos\CreativeArtReach_InventoryManagement\obj\Debug\CreativeArtReach_InventoryManagement.HomePage.resources
+C:\Users\writi\source\repos\CreativeArtReach_InventoryManagement\obj\Debug\CreativeArtReach_InventoryManagement.ManagePage.resources
+C:\Users\writi\source\repos\CreativeArtReach_InventoryManagement\obj\Debug\CreativeArtReach_InventoryManagement.Properties.Resources.resources
+C:\Users\writi\source\repos\CreativeArtReach_InventoryManagement\obj\Debug\CreativeArtReach_InventoryManagement.ViewPage.resources
+C:\Users\writi\source\repos\CreativeArtReach_InventoryManagement\obj\Debug\CreativeArtReach_InventoryManagement.csproj.GenerateResource.cache
+C:\Users\writi\source\repos\CreativeArtReach_InventoryManagement\obj\Debug\CreativeArtReach_InventoryManagement.csproj.CoreCompileInputs.cache
+C:\Users\writi\source\repos\CreativeArtReach_InventoryManagement\obj\Debug\CreativeArtReach_InventoryManagement.exe
+C:\Users\writi\source\repos\CreativeArtReach_InventoryManagement\obj\Debug\CreativeArtReach_InventoryManagement.pdb
+C:\Users\writi\source\repos\CreativeArtReach_InventoryManagement\obj\Debug\CreativeArtReach_InventoryManagement.UpdateSupplyForm.resources
